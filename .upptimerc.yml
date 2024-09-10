@@ -15,7 +15,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: ""Check here for real-time updates on service status, including outages and maintenance. Thank you for being patient with us! 💖
+  introTitle: "Check here for real-time updates on service status, including outages and maintenance. Thank you for being patient with us! 💖"
   # introMessage: test
   navbar:
     - title: Status
