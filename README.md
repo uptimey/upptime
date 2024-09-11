@@ -1,7 +1,5 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [uptimey](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
-
 [![Uptime CI](https://github.com/uptimey/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/uptimey/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/uptimey/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/uptimey/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/uptimey/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/uptimey/upptime/actions?query=workflow%3A%22Graphs+CI%22)
