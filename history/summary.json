@@ -4,18 +4,20 @@
     "url": "https://www.justperfecthome.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.justperfecthome.com.ico",
     "slug": "just-perfect-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1933,
-    "timeDay": 2150,
-    "timeWeek": 1933,
-    "timeMonth": 1933,
-    "timeYear": 1933,
-    "dailyMinutesDown": {}
+    "time": 2055,
+    "timeDay": 2711,
+    "timeWeek": 2055,
+    "timeMonth": 2055,
+    "timeYear": 2055,
+    "dailyMinutesDown": {
+      "2024-09-17": 0
+    }
   },
   {
     "name": "Alexs Portfolio",
