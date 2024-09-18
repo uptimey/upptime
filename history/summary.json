@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.justperfecthome.com.ico",
     "slug": "just-perfect-home",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2055,
-    "timeDay": 2711,
-    "timeWeek": 2055,
-    "timeMonth": 2055,
-    "timeYear": 2055,
+    "uptime": "87.43%",
+    "uptimeDay": "10.12%",
+    "uptimeWeek": "87.16%",
+    "uptimeMonth": "87.43%",
+    "uptimeYear": "87.43%",
+    "time": 2153,
+    "timeDay": 3251,
+    "timeWeek": 2246,
+    "timeMonth": 2153,
+    "timeYear": 2153,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-18": 126,
+      "2024-09-17": 1169
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 82,
-    "timeWeek": 96,
-    "timeMonth": 96,
-    "timeYear": 96,
+    "time": 93,
+    "timeDay": 65,
+    "timeWeek": 90,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {}
   }
 ]
