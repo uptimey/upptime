@@ -7,6 +7,8 @@ sites:
     url: https://www.justperfecthome.com
   - name: Alexs Portfolio
     url: https://panluvme.github.io/
+  - name: Selfade
+    url: https://selfade.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
