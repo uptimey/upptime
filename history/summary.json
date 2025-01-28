@@ -22,7 +22,7 @@
     "url": "https://dash.pandashii.com/",
     "icon": "https://icons.duckduckgo.com/ip3/dash.pandashii.com.ico",
     "slug": "alexs-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 430,
     "timeMonth": 384,
     "timeYear": 388,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 0
+    }
   }
 ]
